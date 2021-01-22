@@ -1,5 +1,5 @@
 {
-  "name": "@hbo/useragent",
+  "name": "@eliasfm-hbo/useragent",
   "version": "1.0.0",
   "description": "Fastest, most accurate & effecient user agent string parser, uses Browserscope's research for parsing",
   "author": "Arnout Kazemier",
